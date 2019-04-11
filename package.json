@@ -1,0 +1,28 @@
+{
+  "name": "ts-nextjs-hands-on",
+  "version": "1.0.0",
+  "author": "takepepe",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "next": "^8.0.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.2.0",
+    "yarn": "^1.15.2"
+  },
+  "devDependencies": {
+    "@types/next": "^8.0.3",
+    "@types/react": "^16.8.13",
+    "@types/react-dom": "^16.8.3",
+    "@types/styled-components": "^4.1.14",
+    "@zeit/next-typescript": "^1.1.1",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.4.3"
+  }
+}

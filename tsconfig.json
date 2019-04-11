@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noUnusedParameters": false,
+    "strict": true,
+    "esModuleInterop": true,
+    "jsx": "react"
+  },
+  "include": [
+    "pages/**/*",
+    "layouts/**/*",
+    "components/**/*"
+  ]
+}
