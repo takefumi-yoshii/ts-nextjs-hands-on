@@ -4,9 +4,7 @@ import { Head, Main, NextScript } from 'next/document'
 //
 export default () => (
   <html>
-    <Head>
-      <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-    </Head>
+    <Head />
     <body>
       <Main />
       <NextScript />
